@@ -54,14 +54,22 @@
 		539D27991CD81BE300DB9CF0 /* HealthPact */ = {
 			isa = PBXGroup;
 			children = (
+				539D27AC1CD828C400DB9CF0 /* View Controllers */,
 				539D279A1CD81BE300DB9CF0 /* AppDelegate.swift */,
-				539D279C1CD81BE400DB9CF0 /* ViewController.swift */,
 				539D279E1CD81BE400DB9CF0 /* Main.storyboard */,
 				539D27A11CD81BE400DB9CF0 /* Assets.xcassets */,
 				539D27A31CD81BE400DB9CF0 /* LaunchScreen.storyboard */,
 				539D27A61CD81BE400DB9CF0 /* Info.plist */,
 			);
 			path = HealthPact;
+			sourceTree = "<group>";
+		};
+		539D27AC1CD828C400DB9CF0 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				539D279C1CD81BE400DB9CF0 /* ViewController.swift */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
